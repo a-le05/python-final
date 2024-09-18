@@ -40,5 +40,4 @@ Rendimiento: Las mejoras en el rendimiento son comunes en las actualizaciones, l
 ```sh
 git commit -m "clase 11 python agregue finales.py y readme.md" #commit mas comentario
 ```
-13. ## Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
-
+13. ## Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba. 
